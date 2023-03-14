@@ -1,0 +1,24 @@
+.header {
+    width: 100vw;
+    height: 78vh;
+    background-image: url('../imgs/bangla.jpeg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+
+
+
+.header_main11{
+    color: #fff;
+    font-size: 100px;
+    letter-spacing: 15px;
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 15%;
+    padding:  10px 50px ;
+    text-shadow: 0 0 5px black;
+
+}
