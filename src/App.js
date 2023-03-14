@@ -9,10 +9,10 @@ import Jisseki from "./jisseki/jisseki";
 function App() {
   return (
     <div>
-      <Header />
-      <Jisseki />
-      <Body />
-      {/* <ContactUs/> */}
+      {/* <Header /> */}
+      {/* <Jisseki /> */}
+      {/* <Body /> */}
+      <ContactUs/>
       {/* <Footer /> */}
     </div>
   );
